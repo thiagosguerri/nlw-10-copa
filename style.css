@@ -48,6 +48,10 @@ header {
   margin-bottom: 63px;
   text-align: center;
 }
+#logo {
+  width: 250px;
+  height: 250px;
+}
 
 #cards {
   display: flex;
